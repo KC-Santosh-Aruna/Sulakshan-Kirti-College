@@ -1,0 +1,16 @@
+---
+title: "Sulakshan Kirti Campus"
+
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+![](skclogo.jpg){width=10}
+Sulakshan Kirti campus was establish to systematically conceptualize and analyse the issues and ideas of development from Buddhist perspective of view.

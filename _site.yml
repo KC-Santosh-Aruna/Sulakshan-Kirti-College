@@ -1,0 +1,25 @@
+name: "SKC"
+title: "Sulakshan Kirti Campus"
+description: |
+  My Website3
+output_dir: "_site"
+navbar:
+  logo:
+      image: skclogo.png
+      href: "logo.html"
+  right:
+    - text: "Study"
+      href: Study.html
+    - text: "Research"
+      href: Research.html
+    - text: "News"
+      href: News.html
+    - text: "Contact"
+      href: Contact.html
+    - text: "नेपाली"
+      href: Nepali.html
+    
+      
+      
+      
+output: distill::distill_article

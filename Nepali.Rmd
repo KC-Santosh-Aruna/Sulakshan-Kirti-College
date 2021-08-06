@@ -1,0 +1,13 @@
+---
+title: "संक्षिप्त जानकारी"
+description: |
+  सुलक्षण कीर्ति क्यामपसको बारेमा संक्षिप्त जानकारी
+
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```

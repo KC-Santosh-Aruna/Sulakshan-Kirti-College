@@ -1,0 +1,11 @@
+---
+title: "Research"
+description: |
+  Some additional details about the website. This is about a Research tab.
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```

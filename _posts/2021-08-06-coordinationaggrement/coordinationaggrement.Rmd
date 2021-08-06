@@ -1,0 +1,20 @@
+---
+title: "News"
+description: |
+  Collaboration agreement between Lumbhini Buddhist University and Sulakshan Kirti Bihar.
+author:
+  - name: Sulakshan Kirti Campus
+date: २५फाल्गुण २०७७
+preview: Collaboration.pdf
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+This a collaboration model agreement.

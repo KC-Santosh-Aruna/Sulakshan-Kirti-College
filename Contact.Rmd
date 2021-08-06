@@ -1,0 +1,32 @@
+---
+title: "Contact"
+description: |
+  Further queries and information regardng Sulakshan Kirti Campus
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+![](Photo.jpg){width=5cm}
+
+**Dr Suman Manandhar**\
+Campus Chief\
+Sulakshan Kirti Bihar, Chovar\
+Kirtipur Municipality, Ward No. 6\
+Kathmandu, Nepal\
+Postal Code: 44618\
++977-9851228727\
+sulkc.edu@gmail.com
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+
+
+
